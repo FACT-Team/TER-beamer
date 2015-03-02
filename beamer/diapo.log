@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.7.22)  26 FEB 2015 16:13
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.7.22)  2 MAR 2015 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1397,65 +1397,65 @@ Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 63.
+(hyperref)                removing `\begingroup' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 63.
+(hyperref)                removing `\endgroup' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\newline' on input line 63.
+(hyperref)                removing `\newline' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 63.
+(hyperref)                removing `\begingroup' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 63.
+(hyperref)                removing `\endgroup' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\newline' on input line 63.
+(hyperref)                removing `\newline' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 63.
+(hyperref)                removing `\begingroup' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 63.
+(hyperref)                removing `\endgroup' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\newline' on input line 63.
+(hyperref)                removing `\newline' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\begingroup' on input line 63.
+(hyperref)                removing `\begingroup' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\endgroup' on input line 63.
+(hyperref)                removing `\endgroup' on input line 60.
 
 (./diapo.aux)
 \openout1 = `diapo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
+LaTeX Font Info:    ... okay on input line 127.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1521,7 +1521,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box84
-Package hyperref Info: Link coloring OFF on input line 131.
+Package hyperref Info: Link coloring OFF on input line 127.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1531,9 +1531,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count299
 )
-LaTeX Info: Redefining \ref on input line 131.
-LaTeX Info: Redefining \pageref on input line 131.
-LaTeX Info: Redefining \nameref on input line 131.
+LaTeX Info: Redefining \ref on input line 127.
+LaTeX Info: Redefining \pageref on input line 127.
+LaTeX Info: Redefining \nameref on input line 127.
 
 (./diapo.out) (./diapo.out)
 \@outlinefile=\write5
@@ -1542,41 +1542,41 @@ LaTeX Info: Redefining \nameref on input line 131.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> T1/ptm/m/n on input line 131.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 131.
+(Font)                  OT1/cmr/m/n --> T1/ptm/m/n on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/ptm/bx/n on input line 131.
+(Font)                  OT1/cmr/bx/n --> T1/ptm/bx/n on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ptm/bx/n on input line 131.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 131.
+(Font)                  OT1/cmr/bx/n --> T1/ptm/bx/n on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 131.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 131.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 131.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/ptm/m/it on input line 131.
+(Font)                  OT1/cmr/m/it --> T1/ptm/m/it on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/ptm/m/it on input line 131.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 131.
+(Font)                  OT1/cmr/bx/it --> T1/ptm/m/it on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 131.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 131.
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 127.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/ptm/m/n --> T1/ptm/bx/n on input line 131.
+(Font)                  T1/ptm/m/n --> T1/ptm/bx/n on input line 127.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/ptm/m/it --> T1/ptm/bx/it on input line 131.
+(Font)                  T1/ptm/m/it --> T1/ptm/bx/it on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/ptm/bx/n on input line 131.
+(Font)                  OT1/cmr/bx/n --> T1/ptm/bx/n on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/ptm/bx/n --> T1/ptm/bx/n on input line 131.
+(Font)                  T1/ptm/bx/n --> T1/ptm/bx/n on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 131.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/ptm/m/it --> T1/ptm/bx/it on input line 131.
+(Font)                  T1/ptm/m/it --> T1/ptm/bx/it on input line 127.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 131.
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 127.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1602,43 +1602,43 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 131.
+LaTeX Info: Redefining \includegraphics on input line 127.
 \c@lstlisting=\count300
-LaTeX Info: Redefining \degres on input line 131.
-LaTeX Info: Redefining \dots on input line 131.
+LaTeX Info: Redefining \degres on input line 127.
+LaTeX Info: Redefining \dots on input line 127.
 
 
 Package frenchb.ldf Warning: Setting StandardEnumerateEnv=true for
 (frenchb.ldf)                compatibility with enumerate package,
-(frenchb.ldf)                 on input line 131.
+(frenchb.ldf)                 on input line 127.
 
-LaTeX Info: Redefining \up on input line 131.
+LaTeX Info: Redefining \up on input line 127.
 (./diapo.nav)
-LaTeX Font Info:    Try loading font information for U+msa on input line 131.
+LaTeX Font Info:    Try loading font information for U+msa on input line 127.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 131.
+LaTeX Font Info:    Try loading font information for U+msb on input line 127.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 131.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 127.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <6> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 131.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 127.
 
-Overfull \hbox (2.80698pt too wide) in paragraph at lines 131--131
+Overfull \hbox (2.80698pt too wide) in paragraph at lines 127--127
 [][]  
  []
 
-<ups.jpg, id=64, 200.75pt x 67.25125pt>
+<ups.jpg, id=24, 200.75pt x 67.25125pt>
 File: ups.jpg Graphic file (type jpg)
  <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 134.
+Package pdftex.def Info: ups.jpg used on input line 130.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -1647,241 +1647,7 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 
 [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
- <./ups.jpg> <../../images/FACT_official.png>]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 156.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[2
-
-] (./diapo.toc)
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 159.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[3
-
-] (./diapo.toc)
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 160.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[4
-
-]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 175.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[5
-
-] <logos/qt.png, id=200, 1103.12125pt x 467.7475pt>
-File: logos/qt.png Graphic file (type png)
- <use logos/qt.png>
-Package pdftex.def Info: logos/qt.png used on input line 196.
-(pdftex.def)             Requested size: 100.64003pt x 42.67912pt.
-
-<logos/travis.png, id=201, 90.3375pt x 28.908pt>
-File: logos/travis.png Graphic file (type png)
- <use logos/travis.png>
-Package pdftex.def Info: logos/travis.png used on input line 196.
-(pdftex.def)             Requested size: 133.37897pt x 42.67912pt.
-
-<logos/coveralls.png, id=202, 544.0325pt x 153.57375pt>
-File: logos/coveralls.png Graphic file (type png)
-
-<use logos/coveralls.png>
-Package pdftex.def Info: logos/coveralls.png used on input line 196.
-(pdftex.def)             Requested size: 131.02704pt x 36.98866pt.
-
-Overfull \hbox (11.08693pt too wide) in paragraph at lines 196--196
- [][]   [] 
- []
-
-<logos/git.png, id=203, 913.4125pt x 381.425pt>
-File: logos/git.png Graphic file (type png)
- <use logos/git.png>
-Package pdftex.def Info: logos/git.png used on input line 196.
-(pdftex.def)             Requested size: 102.20393pt x 42.67912pt.
-
-<logos/github.png, id=204, 1126.2075pt x 240.9pt>
-File: logos/github.png Graphic file (type png)
- <use logos/github.png>
-Package pdftex.def Info: logos/github.png used on input line 196.
-(pdftex.def)             Requested size: 159.60982pt x 34.14322pt.
-
-Overfull \hbox (8.49467pt too wide) in paragraph at lines 196--196
- [][]   [] 
- []
-
-<logos/irc.png, id=205, 301.125pt x 137.7647pt>
-File: logos/irc.png Graphic file (type png)
- <use logos/irc.png>
-Package pdftex.def Info: logos/irc.png used on input line 196.
-(pdftex.def)             Requested size: 49.7524pt x 22.76228pt.
-
-<logos/doxygen.png, id=206, 261.97874pt x 51.19125pt>
-File: logos/doxygen.png Graphic file (type png)
- <use logos/doxygen.png>
-Package pdftex.def Info: logos/doxygen.png used on input line 196.
-(pdftex.def)             Requested size: 72.8059pt x 14.22636pt.
-
-<logos/sqlite.png, id=207, 1027.84pt x 486.81876pt>
-File: logos/sqlite.png Graphic file (type png)
- <use logos/sqlite.png>
-Package pdftex.def Info: logos/sqlite.png used on input line 196.
-(pdftex.def)             Requested size: 48.05441pt x 22.76228pt.
-
-Overfull \vbox (10.90497pt too high) detected at line 196
- []
-
-File: ups.jpg Graphic file (type jpg)
-<use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 196.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[6
-
- <./logos/qt.png> <./logos/travis.png> <./logos/coveralls.png> <./logos/git.png
-> <./logos/github.png (PNG copy)> <./logos/irc.png> <./logos/doxygen.png> <./lo
-gos/sqlite.png>] (./diapo.toc)
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 197.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[7
-
-]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 204.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[8
-
-]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 208.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[9
-
-]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 213.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[10
-
-] (./diapo.toc)
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 214.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[11
-
-]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 218.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[12
-
-]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 223.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[13
-
-]
-File: ups.jpg Graphic file (type jpg)
- <use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 229.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[14
-
-] <interrogation.png, id=383, 77.088pt x 77.088pt>
-File: interrogation.png Graphic file (type png)
- <use interrogation.png>
-Package pdftex.def Info: interrogation.png used on input line 237.
-(pdftex.def)             Requested size: 142.26378pt x 142.28119pt.
-File: ups.jpg Graphic file (type jpg)
-
-<use ups.jpg>
-Package pdftex.def Info: ups.jpg used on input line 237.
-(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
-
-Overfull \hbox (2.80698pt too wide) has occurred while \output is active
-[][] 
- []
-
-[15
-
- <./interrogation.png>]
+ <./ups.jpg> <./images/FACT_official.png>]
 \tf@nav=\write6
 \openout6 = `diapo.nav'.
 
@@ -1891,31 +1657,31 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `diapo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (./diapo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
 Package rerunfilecheck Info: File `diapo.out' has not changed.
-(rerunfilecheck)             Checksum: C7258E1870D8CC777F6DC7182F610DBE;588.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 238.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 28216 strings out of 493328
- 532313 string characters out of 6140733
- 616418 words of memory out of 5000000
- 30979 multiletter control sequences out of 15000+600000
- 66175 words of font info for 77 fonts, out of 8000000 for 9000
+ 27827 strings out of 493328
+ 524079 string characters out of 6140733
+ 613226 words of memory out of 5000000
+ 30656 multiletter control sequences out of 15000+600000
+ 34741 words of font info for 43 fonts, out of 8000000 for 9000
  953 hyphenation exceptions out of 8191
- 56i,20n,65p,10436b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,18n,63p,10436b,575s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on diapo.pdf (15 pages, 342893 bytes).
+Output written on diapo.pdf (1 page, 60318 bytes).
 PDF statistics:
- 426 PDF objects out of 1000 (max. 8388607)
- 363 compressed objects within 4 object streams
- 42 named destinations out of 1000 (max. 500000)
- 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 54 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
