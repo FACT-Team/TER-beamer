@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.33pt}
+\beamer@endinputifotherversion {3.32pt}
 \select@language {french}
 \beamer@sectionintoc {1}{La t\IeC {\'e}l\IeC {\'e}vision interactive}{5}{0}{1}
 \beamer@subsectionintoc {1}{1}{Influence des personnes}{6}{0}{1}
