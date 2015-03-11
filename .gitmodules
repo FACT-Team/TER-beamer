@@ -1,0 +1,3 @@
+[submodule "beamer-theme"]
+	path = beamer-theme
+	url = git@github.com:aroquemaurel/beamer-theme.git
