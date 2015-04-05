@@ -3,6 +3,7 @@
 \usepackage{listings}
 \usepackage{mdframed}
 \usepackage{tikz}
+\usepackage[overlay,absolute]{textpos}
 % Ce fichier est un exemple d'expos\'e
 
 % - pour des conf\'erences,
@@ -88,14 +89,22 @@ Manan\textbf{T}soa
 % d'utilisation de Beamer (version 3.06) par Till Tantau) :
 
 %\beamerdefaultoverlayspecification{<+->}
+\newcommand{\happy}{%
+			\begin{textblock}{5}(12,1.8)
+				Happy Smiley
+			\end{textblock}
+}
 
+\newcommand{\sad}{%
+			\begin{textblock}{5}(12,1.8)
+				Sad Smiley
+			\end{textblock}
+}
 
 \begin{document}
 	\begin{frame}
 		\titlepage
-	\end{frame}
-	\begin{frame}{Introduction}
-	\begin{itemize}
+	\end{frame} \begin{frame}{Introduction} \begin{itemize}
 		\item Les objets sont de plus en plus connectés\\
 			$\Rightarrow$ Internet des objets
 		\pause
@@ -143,6 +152,9 @@ Manan\textbf{T}soa
 	\end{frame}
 	\subsection{La communication}
 	\begin{frame}{La communication}
+		\only<1>{
+		\sad{}
+		}
 \begin{itemize}
 		\uncover<1->{
 	\item Chat textuel
@@ -151,6 +163,9 @@ Manan\textbf{T}soa
 			\item Éventuellement autre écran
 		\end{itemize}
 		\vfill
+		}
+		\only<2>{
+		\sad{}
 		}
 		\uncover<2->{
 	\item Chat vocal
