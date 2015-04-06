@@ -4,6 +4,8 @@
 \usepackage{mdframed}
 \usepackage{tikz}
 \usepackage[overlay,absolute]{textpos}
+\usepackage{bbding}
+\usepackage{pifont}% http://ctan.org/pkg/pifont
 % Ce fichier est un exemple d'expos\'e
 
 % - pour des conf\'erences,
@@ -43,6 +45,8 @@
 \newcommand{\firstlogo}{images/logos/FACT_official.png}
 \newcommand{\secondlogo}{images/logos/ups.jpg}
 \newcommand{\footsubject}{Quels sont les systèmes à mettre en œuvre pour offrir une expérience sociale depuis sa télévision ?} % Subject in footer
+\newcommand{\xmark}{\ding{55}}%
+\newcommand{\cmark}{\ding{51}}%
 
 \newcommand{\rgbcolortheme}{75,106,149}
 
@@ -116,8 +120,8 @@ Manan\textbf{T}soa
   \vspace{-10px}
 }
 
-\date[ ~ ~ ~ 05 / 03 / 2015] % (facultatif, peut être une abr\'eviation du nom de la conf\'erence)
-{Vendredi 06 Mars 2015}
+\date[ ~ ~ ~ 03 / 04 / 2015] % (facultatif, peut être une abr\'eviation du nom de la conf\'erence)
+{Vendredi 03 Avril 2015}
 
 \subject{~}
 
@@ -183,8 +187,8 @@ Manan\textbf{T}soa
 	\sidetoc{yes}
 	\CedricSpeak{}
 	\section{La télévision interactive}
-	\subsection{Influence des personnes}
-	\begin{frame}{Influence des personnes}
+	\subsection{L'influence des personnes}
+	\begin{frame}{L'iInfluence des personnes}
 \begin{itemize}
 	\item Influence des téléspectateurs
 		\begin{itemize}
@@ -199,7 +203,7 @@ Manan\textbf{T}soa
 			\item Messages dans les bandeaux de l'émission
 			\item Sur le site internet de l'émission
 			\item \texttt{\#monEmission} sur Twitter
-			\item Sur la page Facebook de la chaine/émission
+			\item Sur la page Facebook de la chaîne/émission
 		\end{itemize}
 		\vfill
 \end{itemize}
@@ -265,7 +269,7 @@ Manan\textbf{T}soa
 	\end{frame}
 	\AntoineSpeak{}
 	\subsection{Le partage}
-	\begin{frame}{Le partage : aussi sociale que Facebook ?}
+	\begin{frame}{Le partage : aussi social que Facebook ?}
 	\begin{itemize}
 			\uncover<1->{
 		\item Outils de communication
@@ -297,24 +301,25 @@ Manan\textbf{T}soa
 \end{frame}
 \TsooSpeak{}
 	\section{La télévision sur multi-écrans}
-	\subsection{Utilisation de la télévision multi-écrans}
-	\begin{frame}{Utilisation de la télévision multi-écrans}
+	\subsection{L'utilisation de la télévision multi-écrans}
+	\begin{frame}{L'utilisation de la télévision multi-écrans}
 		\begin{exampleblock}{Avantages}
 			\begin{itemize}
 					\uncover<1->{
 				\item Ne perturbe pas le visionnage sur la TV
 					}
 					\uncover<2->{
-				\item Se prête bien au social
+				\item Accès aux informations
 					}
 					\uncover<3->{
-				\item Distinction du côté social et du côté spectateur
+				\item Se prête bien au social
 					}
 					\uncover<4->{
-				\item Accès aux informations
+				\item Distinction du côté social et du côté spectateur
 					}
 			\end{itemize}
 		\end{exampleblock}
+		\vfill
 					\uncover<5->{
 		\begin{alertblock}{Inconvénients}
 			\begin{itemize}
@@ -322,21 +327,18 @@ Manan\textbf{T}soa
 					\uncover<6->{
 				\item Désocialisation du monde réel
 					}
-					\uncover<7->{
-				\item Créateur d'addiction
-					}	
 			\end{itemize}
 		\end{alertblock}
 					}
 	\end{frame}
-	\subsection{Écrans externes}
-	\begin{frame}{Écrans externes}
+	\subsection{Les écrans externes}
+	\begin{frame}{Les écrans externes}
 \begin{itemize}
 	\item Répartition de contenu sur plusieurs écrans
 		\begin{itemize}
 			\item Télévision
-			\item Smartphones et Tablettes
-			\item Ordinateur
+			\item Smartphones 
+			\item Ordinateurs et tablettes
 		\end{itemize}
 \end{itemize}
 \begin{figure}[H]
@@ -353,8 +355,8 @@ Manan\textbf{T}soa
 	\end{frame}
 \FlorentSpeak{}
 	\section{Les systèmes et services TV}
-	\subsection{Box et périphériques}
-	\begin{frame}{Box et périphériques}
+	\subsection{Les box et périphériques}
+	\begin{frame}{Les box et périphériques}
 		\begin{itemize}
 			\item Système $\rightarrow$ Services
 		\pause
@@ -377,8 +379,8 @@ Manan\textbf{T}soa
 							}
 						\end{figure}
 	\end{frame}
-	\subsection{Cloud}
-	\begin{frame}{Cloud}
+	\subsection{Le Cloud computing}
+	\begin{frame}{Le Cloud computing}
 		\begin{itemize}
 				\uncover<1-> {
 			\item Synchronisation
@@ -420,8 +422,29 @@ Manan\textbf{T}soa
 
 	\AntoineSpeak{}
 	\section*{}
-	
 	\sidetoc{no}
+	\hspace{-25px}
+	\begin{frame}{\hspace{10px}Tableau de synthèse}
+		\begin{table}[H]
+		\tiny
+		\begin{tabular}{|p{1.4cm}|p{1.45cm}|p{0.7cm}|p{0.6cm}|p{0.6cm}|p{0.25cm}|p{1.1cm}|p{0.6cm}|}
+			\hline
+			&Influence des personnes &Commu\-nication &Partage &Multi-écrans &Box &Périphérique &Cloud\\
+			\hline
+			Chat textuel & \texttt{N/A} &\cmark&\cmark&\cmark&\cmark&\cmark&\cmark\\
+			\hline
+			Chat vocal & \texttt{N/A} &\xmark&\cmark&\xmark&\cmark&\xmark & \cmark \\
+			\hline
+			Chat vidéo & \texttt{N/A}&\xmark&\cmark&\xmark&\cmark&\xmark& \cmark\\
+			\hline
+			Réseau social &\cmark&\cmark&\cmark&\cmark&\cmark&\cmark& \cmark \\
+			\hline
+			Jeu &\xmark& \texttt{N/A} &\cmark&\cmark&\cmark&\xmark& \cmark\\
+			\hline
+		\end{tabular}
+		\caption{Synthèse des systèmes de télévision sociale}
+	\end{table}
+	\end{frame}
 	\begin{frame}{Conclusion}
 		\begin{itemize}
 			\item TV $\rightarrow$ Sociale
