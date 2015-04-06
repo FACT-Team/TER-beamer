@@ -38,6 +38,7 @@
 \usepackage[T1]{fontenc}
 \makeatletter
 \hypersetup{pdfpagemode=FullScreen}
+\definecolor{darkblue}{RGB}{57,80,111}
 
 \newcommand{\firstlogo}{images/logos/FACT_official.png}
 \newcommand{\secondlogo}{images/logos/ups.jpg}
@@ -53,13 +54,60 @@
 {La télévision sociale}
 \subtitle{Travail Encadré de Recherche}
 
+\newcommand{\authors}{%
+Antoine de \bsc{Roquemaurel}\newline Florent \bsc{Berbie}\newline Cédric \bsc{Rohaut}\newline Manantsoa Andriamihary \bsc{Razanajatovo}
+}
+\newcommand{\FlorentSpeak}{%
+\author[
+\textbf{\color{white} F}lorent\\
+\textbf{A}ntoine\\
+\textbf{C}édric\\
+Manan\textbf{T}soa
+]{\authors}
+}
+
+\newcommand{\AntoineSpeak}{%
+\author[
+\textbf{F}lorent\\
+\textbf{\color{white} A}ntoine\\
+\textbf{C}édric\\
+Manan\textbf{T}soa
+]{\authors}
+}
+
+\newcommand{\CedricSpeak}{%
+\author[
+\textbf{F}lorent\\
+\textbf{A}ntoine\\
+\textbf{\color{white}C}édric\\
+Manan\textbf{T}soa
+]{\authors}
+}
+
+\newcommand{\TsooSpeak}{
+\author[
+\textbf{F}lorent\\
+\textbf{A}ntoine\\
+\textbf{C}édric\\
+Manan\textbf{\color{white}T}soa
+]{\authors}
+}
+
+\newcommand{\NooneSpeak}{
+\author[
+\textbf{F}lorent\\
+\textbf{A}ntoine\\
+\textbf{C}édric\\
+Manan\textbf{T}soa
+]{\authors}
+}
 \author[
 \textbf{F}lorent\\
 \textbf{A}ntoine\\
 \textbf{C}édric\\
 Manan\textbf{T}soa
 ] % (facultatif, \`a utiliser seulement avec plusieurs auteurs)
-{Antoine de \bsc{Roquemaurel}\newline Florent \bsc{Berbie}\newline Cédric \bsc{Rohaut}\newline Manantsoa Andriamihary \bsc{Razanajatovo}}
+{\authors}
 
 \institute[] % (facultatif mais g\'en\'eralement n\'ecessaire)
 {
@@ -105,7 +153,10 @@ Manan\textbf{T}soa
 	\sidetoc{no}
 	\begin{frame}
 		\titlepage
-	\end{frame} \begin{frame}{Introduction} \begin{itemize}
+	\end{frame} 
+	
+	\AntoineSpeak{}
+	\begin{frame}{Introduction} \begin{itemize}
 		\item Les objets sont de plus en plus connectés\\
 			$\Rightarrow$ Internet des objets
 		\pause
@@ -130,6 +181,7 @@ Manan\textbf{T}soa
 		\tableofcontents
 	\end{frame}
 	\sidetoc{yes}
+	\CedricSpeak{}
 	\section{La télévision interactive}
 	\subsection{Influence des personnes}
 	\begin{frame}{Influence des personnes}
@@ -211,6 +263,7 @@ Manan\textbf{T}soa
 		\vfill
 \end{itemize}
 	\end{frame}
+	\AntoineSpeak{}
 	\subsection{Le partage}
 	\begin{frame}{Le partage : aussi sociale que Facebook ?}
 	\begin{itemize}
@@ -242,6 +295,7 @@ Manan\textbf{T}soa
 			}
 	\end{itemize}
 \end{frame}
+\TsooSpeak{}
 	\section{La télévision sur multi-écrans}
 	\subsection{Utilisation de la télévision multi-écrans}
 	\begin{frame}{Utilisation de la télévision multi-écrans}
@@ -297,6 +351,7 @@ Manan\textbf{T}soa
 	}
 \end{figure}
 	\end{frame}
+\FlorentSpeak{}
 	\section{Les systèmes et services TV}
 	\subsection{Box et périphériques}
 	\begin{frame}{Box et périphériques}
@@ -363,6 +418,7 @@ Manan\textbf{T}soa
 		}
 	\end{frame}
 
+	\AntoineSpeak{}
 	\section*{}
 	
 	\sidetoc{no}
@@ -388,7 +444,7 @@ Manan\textbf{T}soa
 		}
 		\end{figure}
 	\end{frame}
-
+	\NooneSpeak{}
 	\begin{frame}{Avez-vous des questions ?}
 		\begin{figure}[H]
 			\centering
