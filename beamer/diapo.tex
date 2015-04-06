@@ -89,19 +89,20 @@ Manan\textbf{T}soa
 % d'utilisation de Beamer (version 3.06) par Till Tantau) :
 
 %\beamerdefaultoverlayspecification{<+->}
-\newcommand{\happy}{%
+\newcommand{\happyUser}{%
 			\begin{textblock}{5}(12,1.8)
 				Happy Smiley
 			\end{textblock}
 }
 
-\newcommand{\sad}{%
+\newcommand{\unhappyUser}{%
 			\begin{textblock}{5}(12,1.8)
 				Sad Smiley
 			\end{textblock}
 }
 
 \begin{document}
+	\sidetoc{no}
 	\begin{frame}
 		\titlepage
 	\end{frame} \begin{frame}{Introduction} \begin{itemize}
@@ -128,6 +129,7 @@ Manan\textbf{T}soa
 	\begin{frame}
 		\tableofcontents
 	\end{frame}
+	\sidetoc{yes}
 	\section{La télévision interactive}
 	\subsection{Influence des personnes}
 	\begin{frame}{Influence des personnes}
@@ -153,7 +155,7 @@ Manan\textbf{T}soa
 	\subsection{La communication}
 	\begin{frame}{La communication}
 		\only<1>{
-		\sad{}
+		\unhappyUser{}
 		}
 \begin{itemize}
 		\uncover<1->{
@@ -165,7 +167,7 @@ Manan\textbf{T}soa
 		\vfill
 		}
 		\only<2>{
-		\sad{}
+		\unhappyUser{}
 		}
 		\uncover<2->{
 	\item Chat vocal
@@ -361,7 +363,9 @@ Manan\textbf{T}soa
 		}
 	\end{frame}
 
-	\section*{Conclusion}
+	\section*{}
+	
+	\sidetoc{no}
 	\begin{frame}{Conclusion}
 		\begin{itemize}
 			\item TV $\rightarrow$ Sociale
@@ -390,6 +394,9 @@ Manan\textbf{T}soa
 			\centering
 			\includegraphics[width=5cm]{questions.png}
 		\end{figure}
+	\end{frame}
+	\begin{frame}
+		\titlepage
 	\end{frame}
 
 \end{document}
