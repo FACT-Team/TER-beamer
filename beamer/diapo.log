@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.3)  7 APR 2015 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.3)  7 APR 2015 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2299,57 +2299,53 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 482.
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 558--558
+Underfull \hbox (badness 2495) in paragraph at lines 559--559
 []\T1/phv/b/n/6 Influence des
  []
 
 
-Overfull \hbox (4.29297pt too wide) in paragraph at lines 558--558
+Overfull \hbox (4.29297pt too wide) in paragraph at lines 559--559
 []\T1/phv/b/n/6 Commu-
  []
 
 
-Overfull \hbox (3.08687pt too wide) in paragraph at lines 558--558
+Overfull \hbox (3.08687pt too wide) in paragraph at lines 559--559
 \T1/phv/b/n/6 nication| 
  []
 
 
-Overfull \hbox (4.87587pt too wide) in paragraph at lines 558--558
+Overfull \hbox (4.87587pt too wide) in paragraph at lines 559--559
 []\T1/phv/b/n/6 Partage| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 558--558
+Underfull \hbox (badness 10000) in paragraph at lines 559--559
 []\T1/phv/b/n/6 Multi-
  []
 
 
-Overfull \hbox (2.27191pt too wide) in paragraph at lines 558--558
+Overfull \hbox (2.27191pt too wide) in paragraph at lines 559--559
 \T1/phv/b/n/6 écrans| 
  []
 
 
-Overfull \hbox (4.04077pt too wide) in paragraph at lines 558--558
+Overfull \hbox (4.04077pt too wide) in paragraph at lines 559--559
 []\T1/phv/b/n/6 Box| 
  []
 
 
-Overfull \hbox (5.3793pt too wide) in paragraph at lines 558--558
+Overfull \hbox (5.3793pt too wide) in paragraph at lines 559--559
 []\T1/phv/b/n/6 Périphérique| 
  []
 
 
-Overfull \hbox (18.93112pt too wide) in paragraph at lines 558--558
+Overfull \hbox (18.93112pt too wide) in paragraph at lines 559--559
  [] 
- []
-
-
-Overfull \vbox (0.91087pt too high) detected at line 558
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 558.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 559.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2362,15 +2358,15 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 File: images/conclu.png Graphic file (type png)
 
 <use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 580.
+Package pdftex.def Info: images/conclu.png used on input line 581.
 (pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Overfull \vbox (15.70668pt too high) detected at line 580
+Overfull \vbox (15.70668pt too high) detected at line 581
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 580.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 581.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2382,15 +2378,15 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
  <./images/conclu.png>]
 File: images/conclu.png Graphic file (type png)
  <use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 580.
+Package pdftex.def Info: images/conclu.png used on input line 581.
 (pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Overfull \vbox (15.70668pt too high) detected at line 580
+Overfull \vbox (15.70668pt too high) detected at line 581
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 580.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 581.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2402,15 +2398,15 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 ]
 File: images/conclu.png Graphic file (type png)
  <use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 580.
+Package pdftex.def Info: images/conclu.png used on input line 581.
 (pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Overfull \vbox (15.70668pt too high) detected at line 580
+Overfull \vbox (15.70668pt too high) detected at line 581
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 580.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 581.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2422,15 +2418,15 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 ]
 File: images/conclu.png Graphic file (type png)
  <use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 580.
+Package pdftex.def Info: images/conclu.png used on input line 581.
 (pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Overfull \vbox (15.70668pt too high) detected at line 580
+Overfull \vbox (15.70668pt too high) detected at line 581
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 580.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 581.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2442,17 +2438,17 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 ]
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 582.
+(hyperref)                setting the option has no effect on input line 583.
 
 <questions.png, id=672, 77.088pt x 77.088pt>
 File: questions.png Graphic file (type png)
  <use questions.png>
-Package pdftex.def Info: questions.png used on input line 588.
+Package pdftex.def Info: questions.png used on input line 589.
 (pdftex.def)             Requested size: 142.26378pt x 142.28119pt.
 File: images/logos/ups.jpg Graphic file (type jpg)
 
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 588.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 589.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2464,7 +2460,7 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
  <./questions.png>]
 File: images/logos/ups.jpg Graphic file (type jpg)
  <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 591.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 592.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2483,14 +2479,14 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `diapo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 593.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 593.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 594.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 594.
  (./diapo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 593.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 593.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 594.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 594.
 Package rerunfilecheck Info: File `diapo.out' has not changed.
 (rerunfilecheck)             Checksum: 41928320DAB249F637943B1D631375C1;727.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 593.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 594.
  ) 
 Here is how much of TeX's memory you used:
  30428 strings out of 494990
