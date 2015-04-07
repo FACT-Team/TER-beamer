@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.3)  7 APR 2015 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.1.3)  7 APR 2015 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2180,25 +2180,31 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 ]
 File: user_unhappy.png Graphic file (type png)
  <use user_unhappy.png>
-Package pdftex.def Info: user_unhappy.png used on input line 447.
+Package pdftex.def Info: user_unhappy.png used on input line 443.
 (pdftex.def)             Requested size: 28.45274pt x 28.4527pt.
 File: user_happy.png Graphic file (type png)
  <use user_happy.png>
-Package pdftex.def Info: user_happy.png used on input line 447.
+Package pdftex.def Info: user_happy.png used on input line 443.
 (pdftex.def)             Requested size: 28.45274pt x 28.4527pt.
 
 <images/sync.png, id=519, 652.4375pt x 501.875pt>
 File: images/sync.png Graphic file (type png)
  <use images/sync.png>
-Package pdftex.def Info: images/sync.png used on input line 447.
+Package pdftex.def Info: images/sync.png used on input line 443.
 (pdftex.def)             Requested size: 110.96268pt x 85.35826pt.
 
-Overfull \vbox (7.65157pt too high) detected at line 447
+<images/api.jpg, id=520, 401.5pt x 301.125pt>
+File: images/api.jpg Graphic file (type jpg)
+ <use images/api.jpg>
+Package pdftex.def Info: images/api.jpg used on input line 443.
+(pdftex.def)             Requested size: 117.60214pt x 88.2037pt.
+
+Overfull \vbox (33.62137pt too high) detected at line 443
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 447.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 443.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2207,23 +2213,31 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 
 [26
 
- <./images/sync.png>]
+ <./images/sync.png> <./images/api.jpg>]
 File: user_unhappy.png Graphic file (type png)
  <use user_unhappy.png>
-Package pdftex.def Info: user_unhappy.png used on input line 447.
+Package pdftex.def Info: user_unhappy.png used on input line 443.
 (pdftex.def)             Requested size: 28.45274pt x 28.4527pt.
 File: user_happy.png Graphic file (type png)
- <use user_happy.png>
-Package pdftex.def Info: user_happy.png used on input line 447.
+
+<use user_happy.png>
+Package pdftex.def Info: user_happy.png used on input line 443.
 (pdftex.def)             Requested size: 28.45274pt x 28.4527pt.
 File: images/sync.png Graphic file (type png)
+ <use images/sync.png>
+Package pdftex.def Info: images/sync.png used on input line 443.
+(pdftex.def)             Requested size: 73.96848pt x 56.9055pt.
+File: images/api.jpg Graphic file (type jpg)
+ <use images/api.jpg>
+Package pdftex.def Info: images/api.jpg used on input line 443.
+(pdftex.def)             Requested size: 117.60214pt x 88.2037pt.
 
-<use images/sync.png>
-Package pdftex.def Info: images/sync.png used on input line 447.
-(pdftex.def)             Requested size: 92.46558pt x 71.13188pt.
+Overfull \vbox (5.16861pt too high) detected at line 443
+ []
+
 File: images/logos/ups.jpg Graphic file (type jpg)
- <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 447.
+<use images/logos/ups.jpg>
+Package pdftex.def Info: images/logos/ups.jpg used on input line 443.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2233,58 +2247,9 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 [27
 
 ]
-
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 449.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
-[]\T1/phv/m/n/6 Influence des
- []
-
-
-Overfull \hbox (3.02095pt too wide) in paragraph at lines 473--473
-[]\T1/phv/m/n/6 Commu-
- []
-
-
-Overfull \hbox (0.75885pt too wide) in paragraph at lines 473--473
-\T1/phv/m/n/6 nication| 
- []
-
-
-Overfull \hbox (3.93983pt too wide) in paragraph at lines 473--473
-[]\T1/phv/m/n/6 Partage| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--473
-[]\T1/phv/m/n/6 Multi-
- []
-
-
-Overfull \hbox (0.87401pt too wide) in paragraph at lines 473--473
-\T1/phv/m/n/6 écrans| 
- []
-
-
-Overfull \hbox (3.04477pt too wide) in paragraph at lines 473--473
-[]\T1/phv/m/n/6 Box| 
- []
-
-
-Overfull \hbox (2.89517pt too wide) in paragraph at lines 473--473
-[]\T1/phv/m/n/6 Périphérique| 
- []
-
-
-Overfull \hbox (18.93112pt too wide) in paragraph at lines 473--473
- [] 
- []
-
 File: images/logos/ups.jpg Graphic file (type jpg)
-<use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 473.
+ <use images/logos/ups.jpg>
+Package pdftex.def Info: images/logos/ups.jpg used on input line 462.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2293,19 +2258,59 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 
 [28
 
-] <images/conclu.png, id=560, 1336.995pt x 1282.7925pt>
-File: images/conclu.png Graphic file (type png)
+]
 
-<use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 495.
-(pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 464.
 
-Overfull \vbox (15.70668pt too high) detected at line 495
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
+[]\T1/phv/m/n/6 Influence des
+ []
+
+
+Overfull \hbox (3.02095pt too wide) in paragraph at lines 488--488
+[]\T1/phv/m/n/6 Commu-
+ []
+
+
+Overfull \hbox (0.75885pt too wide) in paragraph at lines 488--488
+\T1/phv/m/n/6 nication| 
+ []
+
+
+Overfull \hbox (3.93983pt too wide) in paragraph at lines 488--488
+[]\T1/phv/m/n/6 Partage| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
+[]\T1/phv/m/n/6 Multi-
+ []
+
+
+Overfull \hbox (0.87401pt too wide) in paragraph at lines 488--488
+\T1/phv/m/n/6 écrans| 
+ []
+
+
+Overfull \hbox (3.04477pt too wide) in paragraph at lines 488--488
+[]\T1/phv/m/n/6 Box| 
+ []
+
+
+Overfull \hbox (2.89517pt too wide) in paragraph at lines 488--488
+[]\T1/phv/m/n/6 Périphérique| 
+ []
+
+
+Overfull \hbox (18.93112pt too wide) in paragraph at lines 488--488
+ [] 
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 495.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 488.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2314,18 +2319,19 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 
 [29
 
- <./images/conclu.png>]
+] <images/conclu.png, id=577, 1336.995pt x 1282.7925pt>
 File: images/conclu.png Graphic file (type png)
- <use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 495.
+
+<use images/conclu.png>
+Package pdftex.def Info: images/conclu.png used on input line 510.
 (pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Overfull \vbox (15.70668pt too high) detected at line 495
+Overfull \vbox (15.70668pt too high) detected at line 510
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 495.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 510.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2334,18 +2340,18 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 
 [30
 
-]
+ <./images/conclu.png>]
 File: images/conclu.png Graphic file (type png)
  <use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 495.
+Package pdftex.def Info: images/conclu.png used on input line 510.
 (pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Overfull \vbox (15.70668pt too high) detected at line 495
+Overfull \vbox (15.70668pt too high) detected at line 510
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 495.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 510.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2357,15 +2363,15 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 ]
 File: images/conclu.png Graphic file (type png)
  <use images/conclu.png>
-Package pdftex.def Info: images/conclu.png used on input line 495.
+Package pdftex.def Info: images/conclu.png used on input line 510.
 (pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Overfull \vbox (15.70668pt too high) detected at line 495
+Overfull \vbox (15.70668pt too high) detected at line 510
  []
 
 File: images/logos/ups.jpg Graphic file (type jpg)
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 495.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 510.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2375,19 +2381,17 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 [32
 
 ]
+File: images/conclu.png Graphic file (type png)
+ <use images/conclu.png>
+Package pdftex.def Info: images/conclu.png used on input line 510.
+(pdftex.def)             Requested size: 153.6447pt x 147.41037pt.
 
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 496.
+Overfull \vbox (15.70668pt too high) detected at line 510
+ []
 
-<questions.png, id=587, 77.088pt x 77.088pt>
-File: questions.png Graphic file (type png)
- <use questions.png>
-Package pdftex.def Info: questions.png used on input line 502.
-(pdftex.def)             Requested size: 142.26378pt x 142.28119pt.
 File: images/logos/ups.jpg Graphic file (type jpg)
-
 <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 502.
+Package pdftex.def Info: images/logos/ups.jpg used on input line 510.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2396,10 +2400,20 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 
 [33
 
- <./questions.png>]
+]
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 511.
+
+<questions.png, id=604, 77.088pt x 77.088pt>
+File: questions.png Graphic file (type png)
+ <use questions.png>
+Package pdftex.def Info: questions.png used on input line 517.
+(pdftex.def)             Requested size: 142.26378pt x 142.28119pt.
 File: images/logos/ups.jpg Graphic file (type jpg)
- <use images/logos/ups.jpg>
-Package pdftex.def Info: images/logos/ups.jpg used on input line 505.
+
+<use images/logos/ups.jpg>
+Package pdftex.def Info: images/logos/ups.jpg used on input line 517.
 (pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
 
 Overfull \hbox (2.80698pt too wide) has occurred while \output is active
@@ -2407,6 +2421,18 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
  []
 
 [34
+
+ <./questions.png>]
+File: images/logos/ups.jpg Graphic file (type jpg)
+ <use images/logos/ups.jpg>
+Package pdftex.def Info: images/logos/ups.jpg used on input line 520.
+(pdftex.def)             Requested size: 68.28644pt x 22.8764pt.
+
+Overfull \hbox (2.80698pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[35
 
 ]
 \tf@nav=\write6
@@ -2418,20 +2444,20 @@ Overfull \hbox (2.80698pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `diapo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 507.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 507.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 522.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 522.
  (./diapo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 507.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 507.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 522.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 522.
 Package rerunfilecheck Info: File `diapo.out' has not changed.
 (rerunfilecheck)             Checksum: 6CFF134EC5EE9577BE8D51B7A692840D;727.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 507.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 522.
  ) 
 Here is how much of TeX's memory you used:
- 30359 strings out of 494990
- 585646 string characters out of 6180640
+ 30368 strings out of 494990
+ 585763 string characters out of 6180640
  661243 words of memory out of 5000000
- 32786 multiletter control sequences out of 15000+600000
+ 32792 multiletter control sequences out of 15000+600000
  77478 words of font info for 87 fonts, out of 8000000 for 9000
  34 hyphenation exceptions out of 8191
  56i,20n,65p,10436b,808s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2443,10 +2469,10 @@ nts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
 vr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on diapo.pdf (34 pages, 4198510 bytes).
+Output written on diapo.pdf (35 pages, 4238229 bytes).
 PDF statistics:
- 649 PDF objects out of 1000 (max. 8388607)
- 548 compressed objects within 6 object streams
- 80 named destinations out of 1000 (max. 500000)
- 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 666 PDF objects out of 1000 (max. 8388607)
+ 563 compressed objects within 6 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 
