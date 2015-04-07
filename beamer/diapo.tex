@@ -142,16 +142,27 @@ Manan\textbf{T}soa
 
 %\beamerdefaultoverlayspecification{<+->}
 \newcommand{\happyUser}{%
-			\begin{textblock}{5}(12,1.8)
-				Happy Smiley
+			\begin{textblock}{5}(14,1.8)
+				\includegraphics[width=1.0cm]{user_happy.png}\\
+				\tiny Utilisateur
 			\end{textblock}
 }
 
 \newcommand{\unhappyUser}{%
-			\begin{textblock}{5}(12,1.8)
-				Sad Smiley
+			\begin{textblock}{5}(14,1.8)
+				\includegraphics[width=1.0cm]{user_unhappy.png}\\
+				\tiny Utilisateur
 			\end{textblock}
 }
+\newcommand{\happyAndUnhappyUser}{%
+			\begin{textblock}{5}(13,1.8)
+				\includegraphics[width=1.0cm]{user_unhappy.png}
+				\includegraphics[width=1.0cm]{user_happy.png}\\
+				\hspace{10px}
+				\tiny Utilisateur
+			\end{textblock}
+}
+
 
 \begin{document}
 	\sidetoc{no}
@@ -211,6 +222,9 @@ Manan\textbf{T}soa
 	\subsection{La communication}
 	\begin{frame}{La communication}
 		\only<1>{
+		\happyUser{}
+		}
+		\only<2>{
 		\unhappyUser{}
 		}
 \begin{itemize}
@@ -221,9 +235,6 @@ Manan\textbf{T}soa
 			\item Éventuellement autre écran
 		\end{itemize}
 		\vfill
-		}
-		\only<2>{
-		\unhappyUser{}
 		}
 		\uncover<2->{
 	\item Chat vocal
@@ -269,7 +280,10 @@ Manan\textbf{T}soa
 	\end{frame}
 	\AntoineSpeak{}
 	\subsection{Le partage}
-	\begin{frame}{Le partage : aussi social que Facebook ?}
+	\begin{frame}{Le partage : aussi sociale que Facebook ?}
+		\only<2>{
+		\happyUser{}
+		}
 	\begin{itemize}
 			\uncover<1->{
 		\item Outils de communication
@@ -303,6 +317,8 @@ Manan\textbf{T}soa
 	\section{La télévision sur multi-écrans}
 	\subsection{L'utilisation de la télévision multi-écrans}
 	\begin{frame}{L'utilisation de la télévision multi-écrans}
+		\happyUser{}
+		\vfill
 		\begin{exampleblock}{Avantages}
 			\begin{itemize}
 					\uncover<1->{
@@ -325,7 +341,6 @@ Manan\textbf{T}soa
 			\begin{itemize}
 				\item Attention requise
 					\uncover<6->{
-				\item Désocialisation du monde réel
 					}
 			\end{itemize}
 		\end{alertblock}
@@ -333,6 +348,7 @@ Manan\textbf{T}soa
 	\end{frame}
 	\subsection{Les écrans externes}
 	\begin{frame}{Les écrans externes}
+		\happyUser{}
 \begin{itemize}
 	\item Répartition de contenu sur plusieurs écrans
 		\begin{itemize}
@@ -357,6 +373,9 @@ Manan\textbf{T}soa
 	\section{Les systèmes et services TV}
 	\subsection{Les box et périphériques}
 	\begin{frame}{Les box et périphériques}
+		\only<2->{
+		\happyUser{}
+		}
 		\begin{itemize}
 			\item Système $\rightarrow$ Services
 		\pause
@@ -381,6 +400,9 @@ Manan\textbf{T}soa
 	\end{frame}
 	\subsection{Le Cloud computing}
 	\begin{frame}{Le Cloud computing}
+		\only<1->{
+		\happyAndUnhappyUser{}
+		}
 		\begin{itemize}
 				\uncover<1-> {
 			\item Synchronisation
