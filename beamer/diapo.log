@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.21)  27 APR 2015 12:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.1.21)  27 APR 2015 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2628,7 +2628,7 @@ fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
 uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on diapo.pdf (36 pages, 4320728 bytes).
+Output written on diapo.pdf (36 pages, 4320726 bytes).
 PDF statistics:
  729 PDF objects out of 1000 (max. 8388607)
  622 compressed objects within 7 object streams
